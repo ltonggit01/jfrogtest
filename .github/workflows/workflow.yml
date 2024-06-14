@@ -1,4 +1,4 @@
-name: "Setup JFrog CLI OIDC Example"
+name: "Setup JFrog CLI OIDC Examples"
 on: push
 
 permissions:
